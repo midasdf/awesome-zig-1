@@ -761,3 +761,6 @@ Existing C/C++ projects that have replaced their original build systems with Zig
 
 - [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) - This library validates HP iLO license keys.
 - [Decryptu/zigdex](https://github.com/Decryptu/zigdex) - Display Pokémon sprites in your terminal. A Zig rewrite of pokeget.
+
+## Disclaimer
+This project uses AI-generated code (LLM). I do my best to review and test it, but I can't guarantee it's perfect. Please use it at your own risk.\n
